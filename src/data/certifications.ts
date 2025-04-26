@@ -13,7 +13,7 @@ export const certifications: Certification[] = [
     title: 'Object-Oriented Programming',
     issuer: 'neocolab',
     date: '2023',
-    certificateLink: 'https://drive.google.com/file/d/1BQ4KqTMc1WnGAFZaTnBKdeBt7qBoGCQk/view?usp=sharing',
+    certificateLink: 'https://drive.google.com/file/d/1f2DF0BSiEDmB8i23nfK9CRhQ97cQgUfQ/view?usp=sharing',
     logo: 'https://images.pexels.com/photos/6802042/pexels-photo-6802042.jpeg?auto=compress&cs=tinysrgb&w=600'
   },
   {
