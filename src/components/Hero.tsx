@@ -16,7 +16,7 @@ const Hero: React.FC = () => {
               Machine Learning, Data Analysis, and building user-centric applications.
             </p>
             <a
-              href="/resume.pdf"
+              href="resume.pdf"
               download
               className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-lg transition-colors duration-300 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50"
             >
@@ -27,7 +27,7 @@ const Hero: React.FC = () => {
           <div className="md:w-1/2 flex justify-center">
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white shadow-xl">
               <img
-                src="/pic.jpg"
+                src="pic.jpg"
                 alt="Satyam Kumar"
                 className="w-full h-full object-cover"
               />
