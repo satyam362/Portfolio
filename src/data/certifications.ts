@@ -37,7 +37,7 @@ export const certifications: Certification[] = [
     title: 'Programming in C++: A Hands-on Introduction',
     issuer: 'Coursera',
     date: '2022',
-    certificateLink: '#',
+    certificateLink: '##',
     logo: 'https://images.pexels.com/photos/614117/pexels-photo-614117.jpeg?auto=compress&cs=tinysrgb&w=600'
   }
 ];
