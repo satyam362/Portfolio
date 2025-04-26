@@ -6,7 +6,7 @@ const About: React.FC = () => {
     {
       icon: <Briefcase className="w-6 h-6 text-blue-600" />,
       title: "Experience",
-      description: "2+ years in development"
+      description: "Beginner in development"
     },
     {
       icon: <GraduationCap className="w-6 h-6 text-green-600" />,
@@ -16,7 +16,7 @@ const About: React.FC = () => {
     {
       icon: <Award className="w-6 h-6 text-purple-600" />,
       title: "Projects",
-      description: "10+ Completed Projects"
+      description: "5+ Completed Projects"
     }
   ];
 
