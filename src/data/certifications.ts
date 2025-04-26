@@ -29,7 +29,7 @@ export const certifications: Certification[] = [
     title: 'Supervised Machine Learning: Regression and Classification',
     issuer: 'Coursera',
     date: '2022',
-    certificateLink: '#',
+    certificateLink: 'https://drive.google.com/file/d/1BQ4KqTMc1WnGAFZaTnBKdeBt7qBoGCQk/view?usp=drive_link',
     logo: 'https://images.pexels.com/photos/7092413/pexels-photo-7092413.jpeg?auto=compress&cs=tinysrgb&w=600'
   },
   {
