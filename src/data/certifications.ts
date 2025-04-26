@@ -21,7 +21,7 @@ export const certifications: Certification[] = [
     title: 'DSA Self-Paced',
     issuer: 'GeeksForGeeks',
     date: '2023',
-    certificateLink: '#',
+    certificateLink: 'https://drive.google.com/file/d/1ew6qsR1Sve-naM3Ip7M2veVJetak9WHF/view?usp=sharing',
     logo: 'https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=600'
   },
   {
